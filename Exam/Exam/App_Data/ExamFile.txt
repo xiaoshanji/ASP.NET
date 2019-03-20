@@ -1,0 +1,16 @@
+﻿1、不允许作为类及类成员的访问控制符的是()。
+A.public   B. private C.static D.protected
+2．下列语句序列执行后，k 的值是( )
+int m=3, n=6, k=0;
+while( (m++) < ( - - n) ) ++k;
+A) 0 B) 1 C) 2 D) 3
+3．设有定义 int i = 6 ;，则执行以下语句后，i 的值为(   )
+i += i - 1;
+A) 10     B) 121     C) 11         D) 100
+4．下列选项中，用于在定义子类时声明父类名的关键字是(   )
+A）interface     B) package     C) extends     D) class
+5．下列语句序列执行后，i 的值是(   )
+int i=8, j=16;
+if( i-1 > j ) i- -; else j- -;
+A) 15         B) 16            C) 7            D) 8
+把上面的选择题显示到页面上，用户答题完毕提交后在页面上回显用户的答案。
